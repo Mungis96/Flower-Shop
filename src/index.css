@@ -18,5 +18,8 @@
 	max-width: 1260px;
 	margin: 0 auto;
 	padding: 0 20px;
+	/* background-color: var(--green); */
+}
+.green-bg {
 	background-color: var(--green);
 }
