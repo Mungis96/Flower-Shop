@@ -1,9 +1,13 @@
 import Header from "./components/Header";
+import Hero from "./components/Hero";
 import TopBanner from "./components/TopBanner";
 
 export default function App() {
-	return(<>
-		<TopBanner />
-		<Header />
-	</>);
+  return (
+    <>
+      <TopBanner />
+      <Header />
+      <Hero />
+    </>
+  );
 }

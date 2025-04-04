@@ -23,3 +23,7 @@
 .green-bg {
 	background-color: var(--green);
 }
+
+.light-bg {
+	background-color: var(--bggreen);
+}
