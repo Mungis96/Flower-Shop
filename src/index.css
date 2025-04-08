@@ -23,7 +23,13 @@
 .green-bg {
 	background-color: var(--green);
 }
+<<<<<<< HEAD
 
 .light-bg {
 	background-color: var(--bggreen);
 }
+=======
+.light-bg {
+	background-color: var(--bggreen);
+}
+>>>>>>> 90fcd68f98b580523591d696b5ea22456ac27e4a

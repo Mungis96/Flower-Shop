@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .button{
     display: inline-block;
     font-weight: 600;
@@ -19,3 +20,21 @@
     border-radius: 20px;
 
 }
+=======
+.button {
+	display: inline-block;
+	font-weight: 600;
+	text-align: center;
+}
+.white-btn {
+	background-color: var(--white);
+	color: var(--black);
+	width: 262px;
+	height: 70px;
+	font-size: 22px;
+	letter-spacing: -0.4px;
+	text-transform: uppercase;
+	line-height: 70px;
+	border-radius: 20px;
+}
+>>>>>>> 90fcd68f98b580523591d696b5ea22456ac27e4a
