@@ -4,7 +4,6 @@ import Search from "../assets/img/Search.svg";
 import cart from "../assets/img/cart.svg";
 
 export default function Header() {
-<<<<<<< HEAD
 	return ( <div className="header-bg">
 				<div className="wrapper header">
 					<a href="#"><img src={Logo} alt="Logo" /></a>
@@ -27,42 +26,4 @@ export default function Header() {
 				</div>
 			</div>
 )
-=======
-	return (
-		<div className="header-bg">
-			<div className="wrapper header">
-				<a href="#">
-					<img
-						src={Logo}
-						alt="Logo"
-					/>
-				</a>
-				<nav className="header-links">
-					<a href="#">Home</a>
-					<a href="#">Products</a>
-					<a href="#">About Us</a>
-					<a href="#">Contact Us</a>
-				</nav>
-				<div className="header-right">
-					<div className="header-search">
-						Search
-						<img
-							src={Search}
-							alt="Search Icon"
-						/>
-					</div>
-					<div className="shopcart">
-						<a href="#">
-							<img
-								src={cart}
-								alt="Cart"
-							/>
-							<span className="number">3</span>
-						</a>
-					</div>
-				</div>
-			</div>
-		</div>
-	);
->>>>>>> 90fcd68f98b580523591d696b5ea22456ac27e4a
 }
